@@ -190,3 +190,14 @@ createWhatsAppClient('kantine');
 setInterval(() => {
   console.log("Bot rodando...");
 }, 60000);
+
+
+const http = require('http');
+const PORT = process.env.PORT || 3000;
+
+http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end('Bot Kantine rodando...');
+}).listen(PORT, () => {
+  console.log(`Servidor HTTP ativo na porta ${PORT}`);
+});
