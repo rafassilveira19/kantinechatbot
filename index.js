@@ -31,10 +31,11 @@ async function enviarMensagemSeparada(client, from, mensagens) {
 
 function estaDentroDoHorarioDeAtendimento() {
   const agora = new Date();
+  const horarioAtual = (agora.getUTCHours() - 3) * 60 + agora.getUTCMinutes();
   const dia = agora.getDay();
   const hora = agora.getHours();
   const minutos = agora.getMinutes();
-  const horarioAtual = hora * 60 + minutos;
+
 
   if (dia === 1) return horarioAtual >= 12 * 60 && horarioAtual < 18 * 60;
   if (dia >= 2 && dia <= 5) return horarioAtual >= 10 * 60 && horarioAtual < 16 * 60;
