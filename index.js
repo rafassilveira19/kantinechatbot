@@ -31,8 +31,9 @@ async function enviarMensagemSeparada(client, from, mensagens) {
 
 function estaDentroDoHorarioDeAtendimento() {
   const agora = new Date();
-  const horarioAtual = (agora.getUTCHours() - 3) * 60 + agora.getUTCMinutes();
-  const dia = agora.getDay();
+  const agora = new Date(agoraUTC.getTime() - 3 * 60 * 60 * 1000);
+  const horarioAtual = agora.getHours() * 60 + agora.getMinutes();
+  const dia = agora.getDay(); 
   const hora = agora.getHours();
   const minutos = agora.getMinutes();
 
