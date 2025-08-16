@@ -117,7 +117,7 @@ Enquanto isso, pode nos contar aqui o que você precisa?`,
 
 🛵 *Delivery ou retirada:*  
 pedido.takeat.app/kantinegastronomia  
-_(AQUI TAMBÉM VOCÊ CONSEGUE VER TUDO QUE TEMOS NA LOJA HOJE!!😉)_
+_(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS NA LOJA HOJE!!😉)_
 
 *Para pagamento antecipado, é só fazer o pedido normalmente e, assim que receber nossa mensagem de confirmação, nos avisar que deseja antecipar o pagamento.* 💳✨
 
