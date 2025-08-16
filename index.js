@@ -135,7 +135,7 @@ _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS 
 📍 *Loja Vinhedos e Getúlio*  
 • Seg: 12h – 19h  
 • Ter a Sex: 09h – 19h  
-• Sáb: 09h – 18h  
+• Sábados e Feriados: 09h – 18h  
 • Domingo estamos fechados`
     ];
 
@@ -164,7 +164,7 @@ Estamos fora do horário de atendimento, mas assim que alguém estiver disponív
 📍 *Loja Vinhedos e Getúlio*  
 • Seg: 12h – 19h  
 • Ter a Sex: 09h – 19h  
-• Sáb: 09h – 18h  
+• Sábados e Feriados: 09h – 18h  
 • Domingo estamos fechados`
     ];
 
