@@ -137,6 +137,42 @@ _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS 
 • Ter a Sex: 09h – 19h  
 • Sábados e Feriados: 09h – 18h  
 • Domingo estamos fechados`
+
+      `🌟 *CHOUX DAY* 🌟
+
+⚠ Atenção: estamos recebendo muitas mensagens. Respondemos por ordem de chegada, então tenha paciência 💛.
+*Seguindo os passos abaixo você garante sua choux e não ficará sem!*
+
+📌 Como fazer seu pedido:
+
+⿡ Entre no link: pedido.takeat.app/kantinegastronomia
+⿢ Na *PRIMEIRA* aba *“CHOUX DAY”*, escolha seus sabores
+⿣ Preencha seu número de telefone
+⿤ Selecione Delivery *AGENDADO* ou Retirada *AGENDADA*
+⿥ Escolha o dia 27/08 e o horário desejado
+⿦ Defina a forma de pagamento
+
+💳 Pagamento:
+
+Para confirmar, é necessário o pagamento de 50% do valor total
+
+Pix (telefone): 34 9 9678-7881
+Kantine Gastronomia LTDA
+
+Após pagar, envie o comprovante para validar o pedido
+
+Pagamentos no crédito (via link) devem ser informados após finalizar no site
+
+🛵 Entregas:
+
+Devido à alta demanda, não conseguimos garantir o horário exato, mas faremos o possível para chegar o mais próximo do escolhido
+
+⚠ IMPORTANTE:
+
+- Sabores são somente os que estão no cardápio
+- As choux serão entregues/retiradas apenas no dia 27/08
+- Retirada na unidade Vinhedos deve ser informada após a nossa mensagem de confirmação do pedido
+- Entregas e retiradas serão possíveis somente até 16h00`
     ];
 
     const mensagensForaHorario = [
@@ -166,6 +202,42 @@ Estamos fora do horário de atendimento, mas assim que alguém estiver disponív
 • Ter a Sex: 09h – 19h  
 • Sábados e Feriados: 09h – 18h  
 • Domingo estamos fechados`
+
+      `🌟 *CHOUX DAY* 🌟
+
+⚠ Atenção: estamos recebendo muitas mensagens. Respondemos por ordem de chegada, então tenha paciência 💛.
+*Seguindo os passos abaixo você garante sua choux e não ficará sem!*
+
+📌 Como fazer seu pedido:
+
+⿡ Entre no link: pedido.takeat.app/kantinegastronomia
+⿢ Na *PRIMEIRA* aba *“CHOUX DAY”*, escolha seus sabores
+⿣ Preencha seu número de telefone
+⿤ Selecione Delivery *AGENDADO* ou Retirada *AGENDADA*
+⿥ Escolha o dia 27/08 e o horário desejado
+⿦ Defina a forma de pagamento
+
+💳 Pagamento:
+
+Para confirmar, é necessário o pagamento de 50% do valor total
+
+Pix (telefone): 34 9 9678-7881
+Kantine Gastronomia LTDA
+
+Após pagar, envie o comprovante para validar o pedido
+
+Pagamentos no crédito (via link) devem ser informados após finalizar no site
+
+🛵 Entregas:
+
+Devido à alta demanda, não conseguimos garantir o horário exato, mas faremos o possível para chegar o mais próximo do escolhido
+
+⚠ IMPORTANTE:
+
+- Sabores são somente os que estão no cardápio
+- As choux serão entregues/retiradas apenas no dia 27/08
+- Retirada na unidade Vinhedos deve ser informada após a nossa mensagem de confirmação do pedido
+- Entregas e retiradas serão possíveis somente até 16h00`
     ];
 
     const mensagensParaEnviar = estaDentroDoHorarioDeAtendimento()
