@@ -136,7 +136,7 @@ _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS 
 • Seg: 12h – 19h  
 • Ter a Sex: 09h – 19h  
 • Sábados e Feriados: 09h – 18h  
-• Domingo estamos fechados`
+• Domingo estamos fechados`,
 
       `🌟 *CHOUX DAY* 🌟
 
@@ -201,7 +201,7 @@ Estamos fora do horário de atendimento, mas assim que alguém estiver disponív
 • Seg: 12h – 19h  
 • Ter a Sex: 09h – 19h  
 • Sábados e Feriados: 09h – 18h  
-• Domingo estamos fechados`
+• Domingo estamos fechados`,
 
       `🌟 *CHOUX DAY* 🌟
 
