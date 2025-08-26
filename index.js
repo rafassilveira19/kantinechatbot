@@ -141,27 +141,10 @@ _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS 
       `🌟 *CHOUX DAY* 🌟
 
 ⚠ Atenção: estamos recebendo muitas mensagens. Respondemos por ordem de chegada, então tenha paciência 💛.
-*Seguindo os passos abaixo você garante sua choux e não ficará sem!*
 
-📌 Como fazer seu pedido:
-
-⿡ Entre no link: https://pedido.takeat.app/kantinegastronomia
-⿢ Na *PRIMEIRA* aba *“CHOUX DAY”*, escolha seus sabores
-⿣ Preencha seu número de telefone
-⿤ Selecione Delivery *AGENDADO* ou Retirada *AGENDADA*
-⿥ Escolha o dia 27/08 e o horário desejado
-⿦ Defina a forma de pagamento
-
-💳 Pagamento:
-
-Para confirmar, é necessário o pagamento de 50% do valor total
-
-Pix (telefone): 34 9 9678-7881
-Kantine Gastronomia LTDA
-
-Após pagar, envie o comprovante para validar o pedido
-
-Pagamentos no crédito (via link) devem ser informados após finalizar no site
+As reservas foram encerradas!
+*Pedidos feitos antes de 14h00 ainda serão validados!"
+A equipe Kantine agradece! 
 
 🛵 Entregas:
 
