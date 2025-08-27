@@ -136,26 +136,9 @@ _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS 
 • Seg: 12h – 19h  
 • Ter a Sex: 09h – 19h  
 • Sábados e Feriados: 09h – 18h  
-• Domingo estamos fechados`,
+• Domingo estamos fechados`
 
-      `🌟 *CHOUX DAY* 🌟
-
-⚠ Atenção: estamos recebendo muitas mensagens. Respondemos por ordem de chegada, então tenha paciência 💛.
-
-As reservas foram encerradas!
-*Pedidos feitos antes de 14h00 ainda serão validados!"
-A equipe Kantine agradece! 
-
-🛵 Entregas:
-
-Devido à alta demanda, não conseguimos garantir o horário exato, mas faremos o possível para chegar o mais próximo do escolhido
-
-⚠ IMPORTANTE:
-
-- Sabores são somente os que estão no cardápio
-- As choux serão entregues/retiradas apenas no dia 27/08
-- Retirada na unidade Vinhedos deve ser informada após a nossa mensagem de confirmação do pedido
-- Entregas e retiradas serão possíveis somente até 16h00`
+    
     ];
 
     const mensagensForaHorario = [
