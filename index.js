@@ -113,7 +113,7 @@ async function createWhatsAppClient(instanceId = 'default') {
 Recebemos muitas mensagens, então pedimos um pouquinho de paciência — *já já respondemos você!*
 Enquanto isso, pode nos contar aqui o que você precisa?`,
       `*Cardápios:*  
-🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1XkH3CPugY1E1xPsGm3J3i6xZY-z4iF8P/view
+🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1wzLupCdgu7pIG8gv1Z4qCjOrs-u23Yqk/view
 
 🛵 *Delivery ou retirada:*  
 pedido.takeat.app/kantinegastronomia  
@@ -149,8 +149,7 @@ Estamos fora do horário de atendimento, mas assim que alguém estiver disponív
 
 ,
  `*Cardápios:*  
-🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1XkH3CPugY1E1xPsGm3J3i6xZY-z4iF8P/view
-
+🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1wzLupCdgu7pIG8gv1Z4qCjOrs-u23Yqk/view
 
 📦 *Encomendas de bolos e sobremesas devem ser feitas com 48h de antecedência.*  
 👩🏻‍🍳 Caso seja feita dentro disso, iremos verificar com a cozinha se conseguimos atender você. 
