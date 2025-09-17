@@ -116,7 +116,7 @@ Enquanto isso, pode nos contar aqui o que você precisa?`,
 🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1wzLupCdgu7pIG8gv1Z4qCjOrs-u23Yqk/view
 
 🛵 *Delivery ou retirada:*  
-pedido.takeat.app/kantinegastronomia  
+https://pedido.takeat.app/kantinegastronomia  
 _(AQUI TAMBÉM VOCÊ CONSEGUE VER NOSSAS CESTAS PRESENTEÁVEIS E TUDO QUE TEMOS NA LOJA HOJE!!😉)_
 
 *Para pagamento antecipado, é só fazer o pedido normalmente e, assim que receber nossa mensagem de confirmação, nos avisar que deseja antecipar o pagamento.* 💳✨
@@ -150,6 +150,9 @@ Estamos fora do horário de atendimento, mas assim que alguém estiver disponív
 ,
  `*Cardápios:*  
 🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1wzLupCdgu7pIG8gv1Z4qCjOrs-u23Yqk/view
+
+🏪 *Cardápio da Loja:* https://cardapio.takeat.app/kantinegastronomia
+(AQUI MOSTRA O QUE TEMOS NA LOJA, INCLUINDO AS CESTAS PRESENTEÁVEIS)
 
 📦 *Encomendas de bolos e sobremesas devem ser feitas com 48h de antecedência.*  
 👩🏻‍🍳 Caso seja feita dentro disso, iremos verificar com a cozinha se conseguimos atender você. 
