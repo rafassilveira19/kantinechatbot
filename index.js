@@ -110,8 +110,9 @@ async function createWhatsAppClient(instanceId = 'default') {
 
     const mensagensAtendimento = [
       `Olá! Seja bem-vindo(a) à Kantine 😊
-Recebemos muitas mensagens, então pedimos um pouquinho de paciência — *já já respondemos você!*
-Enquanto isso, pode nos contar aqui o que você precisa?`,
+Hoje, devido à uma manutenção da loja, não estamos abertos.
+Amanhã funcionaremos normalmente.
+Obrigado!`,
       `*Cardápios:*  
 🎂 *Bolos e sobremesas*: https://drive.google.com/file/d/1wzLupCdgu7pIG8gv1Z4qCjOrs-u23Yqk/view
 
